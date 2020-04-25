@@ -1,0 +1,8 @@
+C:\Users\U2\RiderProjects\Laba11\Laba11\bin\Debug\Laba11.exe
+C:\Users\U2\RiderProjects\Laba11\Laba11\bin\Debug\Laba11.pdb
+C:\Users\U2\RiderProjects\Laba11\Laba11\bin\Debug\GoodsLibrary.dll
+C:\Users\U2\RiderProjects\Laba11\Laba11\bin\Debug\GoodsLibrary.pdb
+C:\Users\U2\RiderProjects\Laba11\Laba11\obj\Debug\Laba11.csprojAssemblyReference.cache
+C:\Users\U2\RiderProjects\Laba11\Laba11\obj\Debug\Laba11.csproj.CopyComplete
+C:\Users\U2\RiderProjects\Laba11\Laba11\obj\Debug\Laba11.exe
+C:\Users\U2\RiderProjects\Laba11\Laba11\obj\Debug\Laba11.pdb
